@@ -16,7 +16,7 @@ Mindful Subscribe solves these pain points by offering a systematic way to manag
 * **Expense Insights:** Visualize your spending with a dashboard showing total monthly/yearly expenses and spending trends .
 * **Calendar View:** An "Upcoming" tab displaying a calendar view of your bills to help you plan your finances for the month.
 
-## 📱 Screenshots
+## Screenshots
 
 | Onboarding | Home Dashboard | New Subscription | Upcoming Bills | 
 |:---:|:---:|:---:|:---:|
